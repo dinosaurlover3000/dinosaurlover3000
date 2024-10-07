@@ -11,7 +11,7 @@
          nlp \     \/,/ | . |  \ \/     /                lynch, bay area rap, pfunk, synth history, jazz, ska + streetlight 
                  \__/   ||~||    \__/                    manifesto, esolangs, animation, antifolk
                         || ||                              
-                        () ()                            favourite pastimes: driving, camping, tv, tea
+                        () ()                            favourite pastimes: driving, camping, tv
                         || ||
                        ooO Ooo
 
