@@ -17,6 +17,6 @@
 
 ``` 
 ```
-Tools/tech: ☆c, ☆python, embedded c/cpp, ☆bash, sklearn, pytorch, rust, stm32cube 
+Tools/tech/interests: ☆c, ☆python, embedded c/cpp, ☆bash, sklearn, pytorch, rust, stm32cube 
 ```
 
