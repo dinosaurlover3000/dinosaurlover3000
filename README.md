@@ -6,17 +6,17 @@
  (__|_)    '"--      (_| "o" |_)       --'`   (_|__)     w. dinosaurlover3000.github.io
  (___|_)       \       (_---_)        /      (_|___)           
   (__|_)     / ".      __| |__       ."      (_|__)      topics of interest: ambient, bleep tech + dub , idm, dnb, fax label,
-   (_|)__ .-     }    (\     /)     {   \,, __(|_)       luke vibert BoC etc -> bleep/mu/ninja tunes, touch and go records, math 
-         \        \  / /[. .]\ \   /       /             rock, fugazi, math ling, afrobeat, football, syn​tac​tics, bass, david
+   (_|)__ .-     }    (\     /)     {   \,, __(|_)       luke vibert BoC etc -> bleep/ninja tunes, touch and go records, math 
+         \        \  / /[. .]\ \   /       /             rock, fugazi, math lx, afrobeat, football, oulipo, syn​tac​tics, david
          nlp \     \/,/ | . |  \ \/     /                lynch, bay area rap, pfunk, synth history, jazz, ska + streetlight 
-                 \__/   ||~||    \__/                    manifesto, esolangs, animation, antifolk
+                 \__/   ||~||    \__/                    manifesto, esolangs, bass, animation, antifolk
                         || ||                              
-                        () ()                            favourite hobbies: driving, camping, watching tv
+                        () ()                            favourite hobbies: driving, camping, tv
                         || ||
                        ooO Ooo
 
 ``` 
 ```
-Tools/tech: ☆c, ☆python, pytorch, matlab, ☆linux command line/bash, cpp, embedded c, arm assembler, rust
+Tools/tech: ☆c, ☆python, sklearn, ☆linux command line/bash, cpp, embedded c, arm assembler, rust
 ```
 
