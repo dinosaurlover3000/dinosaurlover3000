@@ -7,7 +7,7 @@
  (___|_)       \       (_---_)        /      (_|___)           
   (__|_)     / ".      __| |__       ."      (_|__)      topics of interest: ambient, bleep tech + dub , idm, dnb, fax label,
    (_|)__ .-     }    (\     /)     {   \,, __(|_)       luke vibert BoC etc -> bleep/ninja tunes, touch and go records, math 
-         \        \  / /[. .]\ \   /       /             rock, fugazi, math lx, afrobeat, football, oulipo, syn​tac​tics, david
+         \        \  / /[. .]\ \   /       /             rock, fugazi, math lx, afrobeat, football, oulipo, syn​tac​tics, david 
          nlp \     \/,/ | . |  \ \/     /                lynch, bay area rap, pfunk, synth history, jazz, ska + streetlight 
                  \__/   ||~||    \__/                    manifesto, esolangs, bass, animation, antifolk
                         || ||                              
@@ -17,6 +17,6 @@
 
 ``` 
 ```
-Tools/tech: ☆c, ☆python, sklearn, ☆linux command line/bash, cpp, embedded c, arm assembler, rust
+Tools/tech: ☆c, ☆python, embedded c/cpp, ☆bash, sklearn, pytorch, rust, stm32cube 
 ```
 
