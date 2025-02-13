@@ -5,18 +5,17 @@
   ____|  |,           ../^^^\.,            |  |____      e. 23xpj@queensu.ca
  (__|_)    '"--      (_| "o" |_)       --'`   (_|__)     w. dinosaurlover3000.github.io
  (___|_)       \       (_---_)        /      (_|___)           
-  (__|_)     / ".      __| |__       ."      (_|__)      topics of interest: ambient, bleep tech + dub , idm, dnb, fax label,
-   (_|)__ .-     }    (\     /)     {   \,, __(|_)       luke vibert BoC etc -> bleep/ninja tunes, touch and go records, math 
-         \        \  / /[. .]\ \   /       /             rock, fugazi, math lx, afrobeat, football, oulipo, syn​tac​tics, david 
-         nlp \     \/,/ | . |  \ \/     /                lynch, bay area rap, pfunk, synth history, jazz, ska + streetlight 
-                 \__/   ||~||    \__/                    manifesto, esolangs, bass, animation, antifolk
-                        || ||                              
-                        () ()                            favourite hobbies: driving, walking, tv
+  (__|_)     / ".      __| |__       ."      (_|__)      Interests: record labels, information theory, football,
+   (_|)__ .-     }    (\     /)     {   \,, __(|_)                  esolangs, animation
+         \        \  / /[. .]\ \   /       /             
+         nlp \     \/,/ | . |  \ \/     /                
+                        || ||                             
+                        () ()                            
                         || ||
                        ooO Ooo
 
 ``` 
 ```
-Tools/interests: ☆c, ☆python, embedded c/cpp, ☆bash, sklearn, pytorch, rust, stm32cube 
+Languages/interests: ☆c, ☆python, cpp, ☆bash, ruby, rust
 ```
 
