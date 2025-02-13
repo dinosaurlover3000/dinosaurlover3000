@@ -8,7 +8,7 @@
   (__|_)     / ".      __| |__       ."      (_|__)      Reach out about record labels, information theory, football,
    (_|)__ .-     }    (\     /)     {   \,, __(|_)                       esolangs, electronic music or animation
          \        \  / /[. .]\ \   /       /             
-         nlp \     \/,/ | . |  \ \/     /                Familiar: ☆c, ☆python, ☆bash, ruby, c#
+         nlp \     \/,/ | . |  \ \/     /                
                         || ||                             
                         () ()                            
                         || ||
