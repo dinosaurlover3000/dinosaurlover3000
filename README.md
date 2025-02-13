@@ -6,8 +6,8 @@
  (__|_)    '"--      (_| "o" |_)       --'`   (_|__)     w. dinosaurlover3000.github.io
  (___|_)       \       (_---_)        /      (_|___)           
   (__|_)     / ".      __| |__       ."      (_|__)      Reach out to talk about
-   (_|)__ .-     }    (\     /)     {   \,, __(|_)               record labels, information theory, esolangs                    
-         \        \  / /[. .]\ \   /       /                     football, music, or animation       
+   (_|)__ .-     }    (\     /)     {   \,, __(|_)               music, record labels, information theory                    
+         \        \  / /[. .]\ \   /       /                     football, fonts, esolangs or animation       
          nlp \     \/,/ | . |  \ \/     /                
                         || ||                             
                         () ()                            
