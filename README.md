@@ -8,14 +8,11 @@
   (__|_)     / ".      __| |__       ."      (_|__)      Interests: record labels, information theory, football,
    (_|)__ .-     }    (\     /)     {   \,, __(|_)                  esolangs, animation
          \        \  / /[. .]\ \   /       /             
-         nlp \     \/,/ | . |  \ \/     /                
+         nlp \     \/,/ | . |  \ \/     /                I like ☆c, ☆python, cpp, ☆bash, ruby, and rust
                         || ||                             
                         () ()                            
                         || ||
                        ooO Ooo
 
 ``` 
-```
-Languages/interests: ☆c, ☆python, cpp, ☆bash, ruby, rust
-```
 
